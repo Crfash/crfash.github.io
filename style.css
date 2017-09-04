@@ -1,5 +1,6 @@
 .section-title{
 color:blue;
+	font-family: 'Comfortaa', cursive;
 }
 .left-col{
 	background: orange;
@@ -7,15 +8,18 @@ color:blue;
 	width:40%;
 	margin:0 auto;
 	height:1200px;
+	font-family: 'Comfortaa', cursive;
 }
 .right-col{
 	background: yellow;
 	float: right;
 	width: 60%;
 	margin: 0 auto;
+	font-family: 'Comfortaa', cursive;
 }
 footer{
 	clear: both;
+	font-family: 'Comfortaa', cursive;
 }
 a:hover{
 	text-decoration: none;
@@ -24,9 +28,11 @@ a:hover{
 background: green;
 	width: 750px;
 	margin: 0 auto;
+	font-family: 'Comfortaa', cursive;
 }
 header{
 	width: 910px;
 	margin: 0 auto;
 	background: pink;
+	font-family: 'Comfortaa', cursive;
 }
