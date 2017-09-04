@@ -1,0 +1,32 @@
+.section-title{
+color:blue;
+}
+.left-col{
+	background: orange;
+	float: left;
+	width:40%;
+	margin:0 auto;
+	height:1200px;
+}
+.right-col{
+	background: yellow;
+	float: right;
+	width: 60%;
+	margin: 0 auto;
+}
+footer{
+	clear: both;
+}
+a:hover{
+	text-decoration: none;
+}
+.wrap{
+background: green;
+	width: 750px;
+	margin: 0 auto;
+}
+header{
+	width: 910px;
+	margin: 0 auto;
+	background: pink;
+}
